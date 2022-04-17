@@ -1,6 +1,6 @@
 ### Olá! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> Eu sou Victor Castro. 
-<p> Desenvolvedor Python com Django e MySQL. RPA e automatização de processos</p>
-##
+<img source="https://komarev.com/ghpvc/?username=your-github-username&color=green">
+<p> Desenvolvedor Python | Django e MySQL. RPA e automatização de processos</p>
 
 <div align="center">
   <a href="https://github.com/VictorCastroBR">
