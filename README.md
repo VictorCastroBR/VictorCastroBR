@@ -8,8 +8,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorCastroBR&layout=compact&langs_count=7&theme=omni"/>
 </div> 
  <div style="display: inline_block"><br>
-  <img align="center" alt="VICTOR-Python" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="VICTOR-Django" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg">
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+  ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
  </div>
   
   ##
