@@ -1,6 +1,6 @@
 ### Olá! 👋 Eu sou Victor Castro. 
 <img src="https://komarev.com/ghpvc/?username=luisfelipert&color=blueviolet">
-<p> Desenvolvedor Python | Django e MySQL. RPA e automatização de testes com Selenium.</p>
+<p> Desenvolvedor Python | Django. RPA e automatização de testes com Selenium.</p>
 
 <div align="center">
   <a href="https://github.com/VictorCastroBR">
