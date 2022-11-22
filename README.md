@@ -1,6 +1,6 @@
 ### Olá! 👋 Eu sou Victor Castro. 
 <img src="https://komarev.com/ghpvc/?username=luisfelipert&color=blueviolet">
-<p>Estudante de tecnologia na <strong>Fatec Ribeirão Preto</strong>, minha tecnologia principal é o <strong>Python</strong>🐍</p>
+<p>Estudante de tecnologia na <strong>Fatec Ribeirão Preto</strong>, minhas principais tecnologias são <strong>Python</strong>🐍 e <strong>JavaScript🎇</strong></p>
 <p>Desenvolvedor Jr. na <strong>Sifat Sistemas</strong>💙, desenvolvimento web com Django, RPA e automatizações com Selenium.</p>
     
 ## Skills👨🏽‍💻💼
